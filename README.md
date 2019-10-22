@@ -1,4 +1,3 @@
-# HTML-CSS
 /*
 to fit in forumotion limit, replace
 cour1 -> gks_1
@@ -41,20 +40,20 @@ cour7 -> gks_7
     -webkit-transition: width 1s;
   }
   .cour24 {
-    background-image: url('https://i.imgur.com/dw3BdLg.png');
-    background-color: blue;
+    background-image: url('https://i.imgur.com/cLQKfgo.jpg');
+    background-color: red;
   }
   .cour23 {
-    background-image: url('https://i.imgur.com/Q9RFiUp.png');
-    background-color: green;
+    background-image: url('https://i.imgur.com/v3klJf4.jpg');
+    background-color: blue;
   }
   .cour22 {
-    background-image: url('https://i.imgur.com/4BIsOEr.png');
+    background-image: url('https://i.imgur.com/yhWqdnk.jpg');
     background-color: purple;
   }
   .cour21 {
-    background-image: url('https://i.imgur.com/2Qkcagz.png');
-    background-color: black;
+    background-image: url('https://i.imgur.com/DfO9EBC.jpg');
+    background-color: green;
   }
   
   .cour1:not(:hover) > .cour21 {
