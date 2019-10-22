@@ -41,20 +41,20 @@ cour7 -> gks_7
     -webkit-transition: width 1s;
   }
   .cour24 {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuFVeTNyo0SkebYAfLfooM6zQnD7xkH8ztyHILs21D1kBX8Iry');
-    background-color: red;
-  }
-  .cour23 {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVXJjEwtA2tZFPcYoIWMuoal5ZWNagFPjTnpD9gOAB0TmWsvK');
+    background-image: url('https://i.imgur.com/dw3BdLg.png');
     background-color: blue;
   }
+  .cour23 {
+    background-image: url('https://i.imgur.com/Q9RFiUp.png');
+    background-color: green;
+  }
   .cour22 {
-    background-image: url('https://pbs.twimg.com/media/D_JP0HZUcAAW8cV.jpg');
+    background-image: url('https://i.imgur.com/4BIsOEr.png');
     background-color: purple;
   }
   .cour21 {
-    background-image: url('https://i.pinimg.com/originals/4b/20/09/4b2009fd1a474b37fb01719bc6370810.jpg');
-    background-color: green;
+    background-image: url('https://i.imgur.com/2Qkcagz.png');
+    background-color: black;
   }
   
   .cour1:not(:hover) > .cour21 {
