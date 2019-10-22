@@ -22,7 +22,7 @@ cour7 -> gks_7
   }
   
   .cour1 {
-    width: 550px;
+    width: 400px;
     height: 300px;
     padding: 0px;
     margin: 0px;
@@ -42,22 +42,18 @@ cour7 -> gks_7
   .cour24 {
     background-image: url('https://i.imgur.com/Hq8VqMT.jpg?1');
     background-color: red;
-    position: center;
   }
   .cour23 {
     background-image: url('https://i.imgur.com/ST6s9ht.jpg?1');
     background-color: blue;
-    position: center;
   }
   .cour22 {
     background-image: url('https://i.imgur.com/jlYCmpm.jpg?1');
     background-color: purple;
-    position: center;
   }
   .cour21 {
     background-image: url('https://i.imgur.com/iUYeqxE.jpg?1');
     background-color: green;
-    position: center;
   }
   
   .cour1:not(:hover) > .cour21 {
@@ -72,7 +68,7 @@ cour7 -> gks_7
   
   .cour5 {
     position: absolute;
-    height: 300px;
+    height: 200px;
     width: 150px;
     top: 50px;
     left: 10px;
