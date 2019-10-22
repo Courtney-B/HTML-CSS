@@ -136,7 +136,7 @@ cour7 -> gks_7
   }
   
   .cour6 {
-    background-color: rgba(255,204,0,0);
+    background-color: #00ffcc;
     transition: background-color 1s, opacity 1s;
     
     -moz-border-radius: 100px / 50px;
