@@ -39,6 +39,14 @@ cour7 -> gks_7
     transition: width 1s;
     -webkit-transition: width 1s;
   }
+   .cour25 {
+    max-width: 100%;
+    height: auto;
+    background-image: url('https://i.imgur.com/jlYCmpm.jpg?1');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+  }
   .cour24 {
     max-width: 100%;
     height: auto;
