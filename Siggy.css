@@ -27,7 +27,7 @@ cour7 -> gks_7
     padding: 0px;
     margin: 0px;
     display: table;
-    background-color: green;
+    background-color: black;
   }
   
   .cour2 {
@@ -93,7 +93,7 @@ cour7 -> gks_7
     transition: opacity 1s;
   }
   .cour51 {
-    left: 175px;
+    left: 200px;
   }
   .cour52 {
   }
