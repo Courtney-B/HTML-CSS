@@ -40,26 +40,26 @@ cour7 -> gks_7
     -webkit-transition: width 1s;
   }
   .cour24 {
-    height: 200px;
-    width: 50%;
+    max-width: 100%;
+    height: auto;
     background-image: url('https://i.imgur.com/Hq8VqMT.jpg?1');
     background-color: red;
   }
   .cour23 {
-    height: 200px;
-    width: 50%;
+    max-width: 100%;
+    height: auto;
     background-image: url('https://i.imgur.com/ST6s9ht.jpg?1');
     background-color: blue;
   }
   .cour22 {
-    height: 200px;
-    width: 50%;
+    max-width: 100%;
+    height: auto;
     background-image: url('https://i.imgur.com/jlYCmpm.jpg?1');
     background-color: purple;
   }
   .cour21 {
-    height: 200px;
-    width: 50%;
+    max-width: 100%;
+    height: auto;
     background-image: url('https://i.imgur.com/iUYeqxE.jpg?1');
     background-color: green;
   }
